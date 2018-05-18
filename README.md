@@ -12,3 +12,5 @@ Terrorism. The word carries such ghastly connotations that we immediately start 
 The data has been collected from an open source dataset called **The Global Terrorism Database (GTD)** that can be found [here](https://www.kaggle.com/START-UMD/gtd). It is an open-source database including information on terrorist events around the world from 1970 through 2016. It includes systematic data on domestic as well as transnational and international terrorist incidents that have occurred during this time period. For each GTD incident, information is available on the date and location of the incident, the weapons used and nature of the target, the number of casualties, and the group or individual responsible(when identifiable) and more.
 
 Statistical information contained in the Global Terrorism Database is based on reports from a variety of open media sources. Information is not added to the GTD unless and until the sources are determined to be credible.
+
+*For detailed results/conclusions, refer to the project report.
