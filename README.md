@@ -13,4 +13,4 @@ The data has been collected from an open source dataset called **The Global Terr
 
 Statistical information contained in the Global Terrorism Database is based on reports from a variety of open media sources. Information is not added to the GTD unless and until the sources are determined to be credible.
 
-*For detailed results/conclusions, refer to the project report.
+**For detailed results/conclusions, refer to the project report.**
